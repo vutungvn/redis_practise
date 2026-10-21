@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+
+# JS bien dich nham canh file .ts
+bai*/src/**/*.js
+*.js.map
